@@ -41,14 +41,14 @@ function setup() {
 }
 
 function draw() {
+    //Xử lý file background
     background(bgDonw);
-    
     image(imgBgDown, 0, backgroundPos, width, 150);
+    //Xử lý sự kiện
     if (keyCheck != 38 && checkStart == true) {
         sprRun.position.y = posY;
         sprRun.position.x = posX;
         drawSprite(sprRun)
-
     } else if (keyCheck == 38 && checkStart == true) {
         sprJump.position.y = posY;
         sprJump.position.x = posX;
@@ -59,7 +59,7 @@ function draw() {
         drawSprite(sprIdle);
     }
 }
-
+//Xử lý sự kiện từ bàn phím
 document.onkeydown = checkKey;
 var flag = true;
 function checkKey(e) {
