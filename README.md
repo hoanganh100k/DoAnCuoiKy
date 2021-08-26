@@ -1,15 +1,15 @@
 # DoAnCuoiKy
 Game name: Jump and Compele
 #Ideal
-Người chơi đóng vai một vận động viên chạy vượt chướng ngại vật.
-Click nút Start để bắt đầu chơi.
-Nhấn 1 nút nào đó trên bàn phím để chạy từ trái sang phải.
-Người chơi có một khoảng thời gian nhất định để hoàn thành đoạn đường đua. Trên
-suốt đoạn đường đua sẽ xuất hiện random các chướng ngại vật, người chơi phải
-nhấn nút nhảy để vượt qua.
-Nếu đụng chướng ngại vật, trò chơi kết thúc.
-Trên đường đi, thỉnh thoảng sẽ xuất hiện các quà tặng. Người chơi nhảy chạm vào
-quà tặng thì sẽ được điểm thưởng
+The player plays the role of an obstacle runner.
+Click the Start button to start playing.
+Press a button on the keyboard to run from left to right.
+Players have a certain amount of time to complete the track. Above
+During the race, there will be random obstacles, the player must
+Press the jump button to pass.
+If you hit an obstacle, the game is over.
+Along the way, occasional gifts will appear. The player jumps to touch
+Gifts will get bonus points
 
 #Install Enviroment
 
