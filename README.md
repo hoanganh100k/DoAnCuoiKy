@@ -1,7 +1,7 @@
 # DoAnCuoiKy
 Game name: Jump and Compele
 
-#Ideal
+#Ideal:
 The player plays the role of an obstacle runner.
 Click the Start button to start playing.
 Press a button on the keyboard to run from left to right.
@@ -12,7 +12,7 @@ If you hit an obstacle, the game is over.
 Along the way, occasional gifts will appear. The player jumps to touch
 Gifts will get bonus points
 
-#Install Enviroment
+#Install Enviroment:
 
 -Install the software suppoort apache, HTTP. For example:XAMP, WAMP.
 -Clone File in WWW in software
